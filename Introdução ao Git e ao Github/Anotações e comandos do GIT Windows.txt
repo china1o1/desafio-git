@@ -33,3 +33,5 @@ git clove + url do github: Clonar tudo que tem no repositório que foi copiado
 git commit: Basicamente apertar tirar uma foto do seu codigo ou salvar ele. Sempre deixar um recado no seu commit para ter noção onde e como parou ali, 
 git commit -m ''o recado que você quer deixar, e sim o recado vai ter que estar entre aspas'' 
 
+git push origin main: Mandar o seu commit de volta para nuvem
+
